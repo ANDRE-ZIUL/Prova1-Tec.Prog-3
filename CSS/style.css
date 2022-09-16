@@ -1,0 +1,30 @@
+div{
+    border: 1px solid black;
+    margin: 20px 10px;
+}
+
+#conteudo-central{
+    width: 60%;
+    margin: 20px auto;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    margin: 10px;
+}
+
+h3{
+    font-weight: normal;
+    padding: 0px;
+    margin: 0px;
+}
+
+img{
+    width: 25px;
+}
+
+
+
